@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UseePay Demo</string>
+    <string name="payment_id_required">Payment Id is required</string>
+    <string name="client_secret_required">Client Secret is required</string>
+</resources>
