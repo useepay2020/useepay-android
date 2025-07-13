@@ -37,7 +37,7 @@ These values should be obtained by the client from your server. After entering t
 
 ### Import Dependencies
 ```gradle
-implementation 'com.useepay.android:payment-core:0.0.6-alpha'
+implementation 'com.useepay.android:payment-core:0.0.9-alpha'
 ```
 
 ### Initialize the SDK
